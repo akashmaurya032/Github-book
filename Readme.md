@@ -1,3 +1,3 @@
-# This is text books of java.
-# 100 books has been published.
+# This is text book of java.
+# 100 books have been published.
 # welcome back.
